@@ -15,6 +15,7 @@ The goal of this repo is for AI tasks to be extendable by community.
 - [ts](ts) - AI tasks exposed as TS libraries
 - [python](python) - AI tasks exposed as Python libraries
 - [grafbase](grafbase) - hosted GraphQL endpoint to expose AI tasks to be ran
+- [docs](docs)
 
 ## Contribute
 
